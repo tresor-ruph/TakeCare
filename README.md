@@ -1,1 +1,1 @@
-view WIK for development details
+view WIKI for development details
